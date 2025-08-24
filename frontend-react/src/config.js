@@ -1,0 +1,2 @@
+export const MOVE_MODULE_ADDRESS = "0x12a238326b79c705237fdd9671ed0c0ffe2804f91ce796fb0370716ad5820259";
+export const MOVE_MODULE_NAME = "DhanYantra";
